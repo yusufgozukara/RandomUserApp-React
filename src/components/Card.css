@@ -6,7 +6,7 @@
 }
 
 .cardContainer{
-    width: 400px;
+    width: 500px;
     height: 400px;
     background-image: radial-gradient(white, #8cd3ff);
     box-shadow: rgba(0, 157, 255, 0.4) 5px 5px, rgba(13, 162, 255, 0.3) 10px 10px, rgba(38, 171, 255, 0.2) 15px 15px, rgba(89, 191, 255, 0.1) 20px 20px, rgba(191, 230, 255, 0.05) 25px 25px;
@@ -14,7 +14,7 @@
     border-radius: 5px;
 
     display: grid;
-    grid-template-columns: 100px 200px;
+    grid-template-columns: 100px 300px;
     grid-template-rows: 100px 50px 50px 50px 25px 25px ;
     gap: 10px;
     justify-content: center;
