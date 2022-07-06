@@ -1,3 +1,10 @@
+This is my Random User Application with React. 
+
+For look [please click here](https://random-user-react-project.netlify.app/)
+
+![](intro.gif)
+
+
 Project: Random User App 
 
 Description
@@ -31,14 +38,8 @@ JS
 ReactJS
 
 At the end of the project, i will be able to;
-Improve coding skills within HTML & CSS & JS & ReactJS.
+Improve my coding skills within HTML & CSS & JS & ReactJS.
 
-Use git commands (push, pull, commit, add etc.) and Github as Version Control System.
-
-Steps to Solution
-Step 1: Create React App using npx create-react-app random-user-app.
-Step 2: Build Random User App fetching data from https://randomuser.me/api/ using axios.
-Step 4: Push your application into your own public repo on Github.
-Step 5: Add project gif to your project and README.md file.
+I use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 ☺ Happy Coding ✍
