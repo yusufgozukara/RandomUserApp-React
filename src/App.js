@@ -28,7 +28,7 @@ function App() {
   }, [])
 
   if(loading){
-    return <h2>loading</h2>
+    return <h1>Loading...</h1>
   }
   
 
